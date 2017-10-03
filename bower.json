@@ -1,0 +1,22 @@
+{
+  "name": "logcomex-front",
+  "authors": [
+    "Myself"
+  ],
+  "description": "logcomex front",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "jquery": "^3.2.1"
+  }
+}
